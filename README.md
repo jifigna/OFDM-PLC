@@ -18,7 +18,7 @@ Mientras termino de subir los archivos, **todo el código fuente, los diagramas 
 
 Puede descargar o visualizar el informe completo en formato PDF aquí mismo:
 
-👉 **[Previsualizar Informe Técnico Final (PDF)](https://tu-usuario.github.io/tu-repo/PROYECTO_FINAL_DE_CARRERA_FIGNA_VANECEK.pdf)**
+👉 **[Previsualizar Informe Técnico Final (PDF)](https://jifigna.github.io/OFDM-PLC/PROYECTO_FINAL_DE_CARRERA_FIGNA_VANECEK.pdf)**
 
 ---
 
