@@ -18,7 +18,7 @@ Mientras termino de subir los archivos, **todo el código fuente, los diagramas 
 
 Puede descargar o visualizar el informe completo en formato PDF aquí mismo:
 
-👉 **[Ver Informe Técnico Final (PDF)](./PROYECTO_FINAL_DE_CARRERA_FIGNA_VANECEK.pdf?raw=true)**
+👉 **[Previsualizar Informe Técnico Final (PDF)](https://tu-usuario.github.io/tu-repo/PROYECTO_FINAL_DE_CARRERA_FIGNA_VANECEK.pdf)**
 
 ---
 
